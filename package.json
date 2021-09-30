@@ -1,0 +1,26 @@
+{
+  "name": "codebuild-nodeserver",
+  "version": "1.0.0",
+  "description": "code build node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niniloveyou/CodeBuild-NodeServer.git"
+  },
+  "keywords": [
+    "codebuild"
+  ],
+  "author": "deadline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niniloveyou/CodeBuild-NodeServer/issues"
+  },
+  "homepage": "https://github.com/niniloveyou/CodeBuild-NodeServer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "koa": "^2.13.3"
+  }
+}
